@@ -1,0 +1,23 @@
+{
+  "name": "manual-servidor-publico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunice27/Manual-Servidor-Publico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eunice27/Manual-Servidor-Publico/issues"
+  },
+  "homepage": "https://github.com/eunice27/Manual-Servidor-Publico#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
