@@ -17,18 +17,20 @@
 
 ![imagen formulario tramite](/img/formulario-tramite.png)
 
+
 ## Agregar un requisito 
 
 Este es el tercer paso para la creación de un trámite o servicio.
 
-1. Selecciona el tipo de requisito, desplegando la lista precargada
+1. Selecciona el tipo de requisito, desplegando la lista precargada.
+2. Agrega la descripción del requisito.
+3. Selecciona al tipo de persona a quien va dirigido (física o moral).
 
-2. Agrega la descripción del requisito
-3. Selecciona al tipo de persona a quien va dirigido (física o moral)
-4. Da clic en “Crear”
+![imagen formulario agregar requisito](/img/agregar-requisito.png)
 
+4. Da clic en “Crear”.
 
-
+![imagen boton crear requisito](/img/crear-requisito.png)
 
 
 ## Eliminar un requisito	
