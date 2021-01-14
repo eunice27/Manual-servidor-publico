@@ -13,7 +13,10 @@ module.exports = {
             '/content/' :[
                 'crear-usuario',
                 'agregar-nuevo',
-                
+                'edicion-tramite-servicio',
+                'modificar-datos',
+                'atender-tramite',
+                'firma-digital',
             ]
         }
       }
