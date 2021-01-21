@@ -5,12 +5,12 @@ module.exports = {
         logo: '/img/logo_color.png',
         nav: [
           { text: 'Inicio', link: '/' },
-          { text: 'Manual', link: '/content/' },
+          { text: 'Manual', link: '/pages/' },
          
         ],
         displayAllHeaders: true,
         sidebar:{
-            '/content/' :[
+            '/pages/' :[
                 'crear-usuario',
                 'agregar-nuevo',
                 'edicion-tramite-servicio',
