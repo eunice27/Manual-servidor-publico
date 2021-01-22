@@ -1,5 +1,5 @@
 module.exports = {
-    title: '',
+    title: 'Mi Veracruz',
     description: 'Manual ciudadano',
     themeConfig: {
         logo: '/img/logo_color.png',
